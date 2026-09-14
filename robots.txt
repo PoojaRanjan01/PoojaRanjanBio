@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# To keep this site OUT of search engines, replace "Allow: /" with "Disallow: /"
